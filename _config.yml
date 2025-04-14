@@ -1,7 +1,7 @@
-title: "Upperboat"
-logo: "/images/bio_photo.png?raw=true"
+title: "Larry C"
+logo: "/images/Larry_photo.jpg?raw=true"
 description: >
-  Welcome to Upperboat — a place where creativity meets insight. 
+  I am Larry C and I am a Reman Lover. 
   <br><br>
   I'm passionate about data, strategy, and innovation.
   <br><br>
@@ -12,8 +12,8 @@ theme: jekyll-theme-minimal
 show_downloads: false
 google_analytics: ""  # Add your GA tracking ID if needed, e.g., "UA-XXXXXXXXX-X"
 author:
-  name: "Larry Chen"
-  email: "larry.chen@upperboat.com"
+  name: "Larry C"
+  email: "larrychenpro@gmail.com"
 
 # Build settings
 markdown: kramdown
